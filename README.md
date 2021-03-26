@@ -17,7 +17,8 @@
    
    ![image](https://user-images.githubusercontent.com/76134214/112655007-f88b3300-8e1d-11eb-857a-9c164091de0b.png)
 
-   ![image](https://user-images.githubusercontent.com/76134214/112655032-fde87d80-8e1d-11eb-8580-c5a1ab1bfba9.png)
+   ![image](https://user-images.githubusercontent.com/76134214/112655223-2d978580-8e1e-11eb-8bd5-87db66cac8f2.png)
+
    
    3.- Lista de componentes
    
