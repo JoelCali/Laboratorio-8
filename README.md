@@ -70,23 +70,22 @@ En la intensidad es diferente que en los otros apartados, mientras más frecuenc
 
   7. Preguntas
   
-  
- 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+ - ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
  
  En el capacitor se puede observar que la onda no varía mucho y además el valor pico del voltaje es muy pequeño, siendo este de 6.94V. Se pudo observar que tambien la onda se demora cierto tiempo en cambiar su dirección
  
  En la bobina se puede observar que 
  
- 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+ - ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
  
  En corriente alterna, el capacitor va aumentando su voltaje conforme pasa el tiempo, se puede obervar en las ondas, que empiezan a aumentar sus ciclos mientras mas aumenta la frecuencia.
  
- 3. ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+ - ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-4. ¿Qué son los valores eficaces de voltaje y corriente?
+- ¿Qué son los valores eficaces de voltaje y corriente?
 
-7.- CONCLUSIONES
+8.- CONCLUSIONES
 
-8.- BIBLIOGRAFÍA
+9.- BIBLIOGRAFÍA
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
