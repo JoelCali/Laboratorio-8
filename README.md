@@ -13,6 +13,8 @@
    
    2.- Marco Teórico
    
+   ![image](https://user-images.githubusercontent.com/76134214/112589554-4dec2380-8dcf-11eb-8fcd-73b4118b8772.png)
+   
    3.- Lista de componentes
    
    ![image](https://user-images.githubusercontent.com/76132461/112553775-1d869400-8d93-11eb-8d54-dd2e3e5cb9d7.png)
@@ -22,14 +24,20 @@
    Diagrama de conexión de osciloscopio
    
    ![image](https://user-images.githubusercontent.com/76132461/112563088-ac50dc00-8da6-11eb-98bf-5de414b8c532.png)
+   
+   ![image](https://user-images.githubusercontent.com/76134214/112589119-8c351300-8dce-11eb-8a80-5a8ea0203c92.png)
 
    Diagrama de conexión de voltímetro
    
    ![image](https://user-images.githubusercontent.com/76132461/112564950-2767c180-8daa-11eb-98b0-53409c1a84f9.png)
+   
+   ![image](https://user-images.githubusercontent.com/76134214/112589158-9eaf4c80-8dce-11eb-94b2-17a46ce4e879.png)
 
    Diagrama de conexión de amperímetro
    
    ![image](https://user-images.githubusercontent.com/76132461/112568672-d4ddd380-8db0-11eb-9ca1-ff0938a99a7d.png)
+   
+   ![image](https://user-images.githubusercontent.com/76134214/112589175-a8d14b00-8dce-11eb-9a18-cda978c18745.png)
 
    5.- EXPLICACIÓN
     
@@ -62,11 +70,14 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 ![image](https://user-images.githubusercontent.com/76132461/112572896-330eb480-8db9-11eb-826b-d423e55d2908.png)
 
+![image](https://user-images.githubusercontent.com/76134214/112589254-cacacd80-8dce-11eb-8e6b-712e325918c5.png)
+
 Como se puede observar en la tabla, el voltaje pico se encuentra entre una frecuencia de 10 a 50 Hz ya que sería el valor ideal, pero cuando nosotros ponemos una frecuencia más alta con relación al voltaje que nosotros tenemos, el valor pico, se va a reducir muchísimo.
 
 Cuando nos fijamos en el segundo apartado de RMS sucede lo mismo que en el valor pico, debido a que si tenemos una frecuencia muy alta lo que ocasionará es que tengamos un valor mucho mas pequeño.
 
 En la intensidad es diferente que en los otros apartados, mientras más frecuencia nosotros establezcamos la corriente será mayor en el circuito. Tal se puede observar con una frecuencia de 1000 hz y de 500 hz comparado con la frecuencia de 10 hz y de 0 hz.
+
 
   7. Preguntas
   
@@ -74,7 +85,7 @@ En la intensidad es diferente que en los otros apartados, mientras más frecuenc
  
  En el capacitor se puede observar que la onda no varía mucho y además el valor pico del voltaje es muy pequeño, siendo este de 6.94V. Se pudo observar que tambien la onda se demora cierto tiempo en cambiar su dirección
  
- En la bobina se puede observar que 
+ En la bobina se puede observar que cuando la frecuencia esta en cero la onda senusoidal es mucho mayor comparado xon la de 10 Hz, ademas de que sus voltajes son mayores en este caso. Tambien actua mucho mas rapido el tiempo de carga para visualizar la onda en el osciloscopio.
  
  - ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
  
@@ -82,9 +93,20 @@ En la intensidad es diferente que en los otros apartados, mientras más frecuenc
  
  - ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+Lo que ocurriria si esque la practica fuese analizada con dos bobinas o dos capacitores de valores distintos, se reflejarian tanto en el osciloscopio y en los multimetros las variaciones entre las medidas obtenias dando un posible caso de que no se distinga los valores arrojados.
+
 - ¿Qué son los valores eficaces de voltaje y corriente?
 
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicarla sobre una misma resistencia.
+
+Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica. El concepto de valor eficaz se utiliza especialmente para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no.
+ 
 8.- CONCLUSIONES
+
+- 
+
+
+
 
 9.- BIBLIOGRAFÍA
 
