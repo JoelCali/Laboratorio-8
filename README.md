@@ -103,9 +103,9 @@ Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica. 
  
 8.- CONCLUSIONES
 
-- 
+- La variación de la voltaje en el secundario depende esencialmente de dos variables, de la corriente absorbida por la carga y de su factor de potencia.La regulación de voltaje de un transformador depende tanto de la magnitud de estas impedancias como del ángulo fase de la corriente que circula por el transformador.
 
-
+- Al implementar el simulador online, observamos que los valores tanto calculados por el sistema y por nosotros no arrojaban un error más allá de 0.10%. Ademas para la obtención de valores picos, aplicamos el osciloscopio para visualizar la onda senusoidal.
 
 
 9.- BIBLIOGRAFÍA
