@@ -70,6 +70,7 @@ En la intensidad es diferente que en los otros apartados, mientras más frecuenc
 
   7. Preguntas
   
+  
  1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
  
  En el capacitor se puede observar que la onda no varía mucho y además el valor pico del voltaje es muy pequeño, siendo este de 6.94V. Se pudo observar que tambien la onda se demora cierto tiempo en cambiar su dirección
