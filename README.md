@@ -12,6 +12,7 @@
    - Implementar los transformadores en el simulador ACDCLAB e ir comparando los voltajes.
    
    2.- Marco Teórico
+   
    3.- Lista de componentes
    
    ![image](https://user-images.githubusercontent.com/76132461/112553775-1d869400-8d93-11eb-8d54-dd2e3e5cb9d7.png)
@@ -30,3 +31,6 @@
    
    ![image](https://user-images.githubusercontent.com/76132461/112568672-d4ddd380-8db0-11eb-9ca1-ff0938a99a7d.png)
 
+   5.- EXPLICACIÓN
+    
+  5.1.- PROCEDIMIENTO
