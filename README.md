@@ -34,3 +34,58 @@
    5.- EXPLICACIÓN
     
   5.1.- PROCEDIMIENTO
+  
+  1. Se ingresa a la plataforma DCACLAB, se crea una cuenta, a continuación, se da click en laboratorio y se comienza a crear el circuito.
+
+  2. Se seleccionan los materiales que vamos a utilizar, 1 resistencias, multimetro digital, fuente de voltaje alterno, capacitores. bobinas y un osciloscopio.
+
+  3. Se coloca la fuente de voltaje alterna con un voltaje de 10 V.
+
+  4. Se conecta la resistencia de 100 ohm a la fuente de voltaje y al otro lado se conecta a los dos capacitores de 10 uF.
+
+  5. Se realiza el mismo proceso con las bobinas.
+
+  6. Se conecta el capacitor al polo negativo de la fuente de voltaje.
+
+  7. Se conecta el osciloscopio donde se indica en el diagrama y se mide para cada frecuencia antes establecida
+
+  8. Se conecta el voltímetro en paralelo y se mide para cada frecuencia establecida.
+
+  9. Se conecta el amperímetro a la resistencia y se mide para cada frencuencia establecida.
+
+  10. Repetir los mismos pasos para el siguiente diagrama.
+
+  6. Análisis de resultados
+  
+  Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+
+![image](https://user-images.githubusercontent.com/76132461/112572896-330eb480-8db9-11eb-826b-d423e55d2908.png)
+
+Como se puede observar en la tabla, el voltaje pico se encuentra entre una frecuencia de 10 a 50 Hz ya que sería el valor ideal, pero cuando nosotros ponemos una frecuencia más alta con relación al voltaje que nosotros tenemos, el valor pico, se va a reducir muchísimo.
+
+Cuando nos fijamos en el segundo apartado de RMS sucede lo mismo que en el valor pico, debido a que si tenemos una frecuencia muy alta lo que ocasionará es que tengamos un valor mucho mas pequeño.
+
+En la intensidad es diferente que en los otros apartados, mientras más frecuencia nosotros establezcamos la corriente será mayor en el circuito. Tal se puede observar con una frecuencia de 1000 hz y de 500 hz comparado con la frecuencia de 10 hz y de 0 hz.
+
+  7. Preguntas
+  
+ 1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+ 
+ En el capacitor se puede observar que la onda no varía mucho y además el valor pico del voltaje es muy pequeño, siendo este de 6.94V. Se pudo observar que tambien la onda se demora cierto tiempo en cambiar su dirección
+ 
+ En la bobina se puede observar que 
+ 
+ 2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+ 
+ En corriente alterna, el capacitor va aumentando su voltaje conforme pasa el tiempo, se puede obervar en las ondas, que empiezan a aumentar sus ciclos mientras mas aumenta la frecuencia.
+ 
+ 3. ¿Qué cree usted que ocurriría con el voltaje V0 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+4. ¿Qué son los valores eficaces de voltaje y corriente?
+
+7.- CONCLUSIONES
+
+8.- BIBLIOGRAFÍA
+
+Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
